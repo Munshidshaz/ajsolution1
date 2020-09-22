@@ -1,0 +1,37 @@
+
+<!-- web Development -->
+<h3 class="featuer1">Responsive And Professional Web Design Services</h3>
+<div class="row">
+  <div class="col p1 container-fluid">
+    <p>Nowadays almost every person with an internet connection browse for products and services online, no matter what business industry you are in, your potential customers will search for your product or service online first. This can be via a mobile, tablet, desktop or a laptop. Your website has to look good in all of these platforms, therefore why not join with a leading web design agency and develop a professional and responsive website for your business? You are just one step away!</
+</p>
+  </div>
+<div class="col container-fluid">
+  <img class="featuers-icon" src="img\web.png" alt="">
+
+</div>
+
+</div>
+<!-- social media Marketing -->
+<h3 class="featuer1">Social Media For Your Business</h3>
+<div class="row">
+  <div class="col p1 container-fluid">
+<p>Social media is a great place to get in touch with your target market and engage with them. This brings your business several benefits, some can be identified as you can lure that target market to your website and persuade them to make a sale to convert them into customers/clients, also engaging with your target market on social media increases your brand awareness which will be a huge competitive advantage.</p>
+  </div>
+<div class="col container-fluid">
+  <img class="featuers-icon" src="img\soc.png" alt="">
+
+</div>
+
+</div>
+<!-- Search eng optimize -->
+<h3 class="featuer1">SEO MARKETING SERVICES</h3>
+<div class="row">
+  <div class="col p1 container-fluid">
+<p>Search Engine Optimization (SEO) allows businesses to rank for keywords that their potential customers search for in search engines. This has several benefits for a business such as it will establish your business as an industry leader, potential customers will be able to find you easily, and eventually increase leads and sales. Therefore if you are not doing SEO for your website, no matter how professional your website is, your target market will not be able to find you in need.</p>  </div>
+<div class="col container-fluid">
+  <img class="featuers-icon" src="img\seo.png" alt="">
+
+</div>
+
+</div>
